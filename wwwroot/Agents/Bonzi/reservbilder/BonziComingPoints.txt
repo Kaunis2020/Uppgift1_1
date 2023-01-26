@@ -1,0 +1,43 @@
+Detta är Bonzi, som kommer genom att SURFA
+
+{"duration": 100, "images": [[0, 0]]}]}, 
+"Show": {"frames": [{"duration": 100, "images": [[1000, 320]]}, {"duration": 100, "images": [[1000, 2560]]}, {"duration": 100, "images": [[1200, 2560]]}, {"duration": 100, "images": [[1400, 2560]]}, 
+{"duration": 100, "images": [[1600, 2560]]}, {"duration": 100, "images": [[1800, 2560]]}, {"duration": 100, "images": [[2000, 2560]]}, {"duration": 100, "images": [[2200, 2560]]}, 
+{"duration": 100, "images": [[2400, 2560]]}, {"duration": 100, "images": [[2600, 2560]]}, {"duration": 100, "images": [[2800, 2560]]}, {"duration": 100, "images": [[3000, 2560]]}, 
+{"duration": 100, "images": [[3200, 2560]]}, {"duration": 100, "images": [[0, 2720]]}, {"duration": 100, "images": [[200, 2720]]}, {"duration": 100, "images": [[400, 2720]]}, 
+{"duration": 100, "images": [[600, 2720]]}, {"duration": 100, "images": [[800, 2720]]}, {"duration": 100, "images": [[1000, 2720]]}, {"duration": 100, "images": [[1200, 2720]]}, 
+{"duration": 100, "images": [[1400, 2720]], "sound": "7"}, {"duration": 100, "images": [[1600, 2720]]}, {"duration": 100, "images": [[1800, 2720]]}, {"duration": 100, "images": [[2000, 2720]]}, 
+{"duration": 100, "images": [[2200, 2720]]}, {"duration": 100, "images": [[2400, 2720]]}, {"duration": 100, "images": [[0, 0]]}]}, 
+
+var points =[
+{"x":  "y":},
+
+
+]
+
+
+Detta är Bonzi, som kommer genom att Komma MED EN GREN
+ 
+ MIN EGEN FORMULA
+
+"Show": {"frames": [{"duration": 150, "images": [[800, 3200]]}, {"duration": 150, "images": [[800, 3200]]}, {"duration": 150, "images": [[1000, 3200]]}, {"duration": 150, "images": [[1000, 3200]]},
+{"duration": 150, "images": [[1200, 3200]]}, {"duration": 150, "images": [[1200, 3200]]}, {"duration": 150, "images": [[1400, 3200]]}, {"duration": 150, "images": [[1600, 3200]]}, {"duration": 150, "images": [[1800, 3200]]}, 
+{"duration": 150, "images": [[2000, 3200]]}, {"duration": 150, "images": [[2200, 3200]]}, {"duration": 150, "images": [[2400, 3200]]}, {"duration": 150, "images": [[2600, 3200]]}, {"duration": 150, "images": [[2800, 3200]]}, 
+{"duration": 150, "images": [[3000, 3200]]}, {"duration": 150, "images": [[3200, 3200]]}, {"duration": 150, "images": [[0, 3360]]}, {"duration": 150, "images": [[200, 3360]]}, 
+{"duration": 150, "images": [[400, 3360]]}, {"duration": 150, "images": [[600, 3360]]}, {"duration": 150, "images": [[800, 3360]]}, {"duration": 150, "images": [[1000, 3360]]}, 
+{"duration": 150, "images": [[1200, 3360]], "sound": "7"}, {"duration": 150, "images": [[1400, 3360]]}, {"duration": 150, "images": [[1400, 3360]]}, {"duration": 150, "images": [[1600, 3360]]},
+{"duration": 150, "images": [[1600, 3360]]}, {"duration": 150, "images": [[1800, 3360]]}, {"duration": 150, "images": [[1800, 3360]]}, {"duration": 150, "images": [[2000, 3360]]}, 
+{"duration": 150, "images": [[2000, 3360]]}, {"duration": 150, "images": [[2200, 3360]]}, {"duration": 150, "images": [[2200, 3360]]}, {"duration": 150, "images": [[2400, 3360]]},
+{"duration": 150, "images": [[2600, 3360]]}, {"duration": 150, "images": [[2800, 3360]]}, {"duration": 150, "images": [[3000, 3360]]}, {"duration": 150, "images": [[3200, 3360]]}, {"duration": 150, "images": [[0, 0]]}]}, 
+
+
+GAMMAL (MIN EGEN):
+
+"Show": {"frames": [{"duration": 150, "images": [[800, 3200]]}, {"duration": 150, "images": [[800, 3200]]}, {"duration": 150, "images": [[1000, 3200]]}, {"duration": 150, "images": [[1000, 3200]]},
+{"duration": 150, "images": [[1200, 3200]]}, {"duration": 150, "images": [[1200, 3200]]}, {"duration": 150, "images": [[1400, 3200]]}, {"duration": 150, "images": [[1600, 3200]]}, {"duration": 150, "images": [[1800, 3200]]}, 
+{"duration": 150, "images": [[2000, 3200]]}, {"duration": 150, "images": [[2200, 3200]]}, {"duration": 150, "images": [[2400, 3200]]}, {"duration": 150, "images": [[2600, 3200]]}, {"duration": 150, "images": [[2800, 3200]]}, 
+{"duration": 150, "images": [[3000, 3200]]}, {"duration": 150, "images": [[3200, 3200]]}, {"duration": 150, "images": [[0, 3360]]}, {"duration": 150, "images": [[200, 3360]]}, 
+{"duration": 150, "images": [[400, 3360]]}, {"duration": 150, "images": [[600, 3360]]}, {"duration": 150, "images": [[800, 3360]]}, {"duration": 150, "images": [[1000, 3360]]}, 
+{"duration": 150, "images": [[1200, 3360]], "sound": "7"}, {"duration": 150, "images": [[1400, 3360]]}, {"duration": 150, "images": [[1400, 3360]]}, {"duration": 150, "images": [[1600, 3360]]},
+{"duration": 150, "images": [[1600, 3360]]}, {"duration": 150, "images": [[1800, 3360]]}, {"duration": 150, "images": [[1800, 3360]]}, {"duration": 150, "images": [[2000, 3360]]}, 
+{"duration": 150, "images": [[2000, 3360]]}, {"duration": 150, "images": [[2200, 3360]]}, {"duration": 150, "images": [[2200, 3360]]}, {"duration": 150, "images": [[0, 0]]}]},

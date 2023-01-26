@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Uppgift1</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/pagestyle.css" />
+</head>
+<body>
+    <div class="jumbotron jumbotron-fluid">
+        <div id="maincontainer">
+            <div id="logotypediv">
+                <img src="~/images/logo.png" alt="logo" id="imageid" />
+                <section id="timediv"><b>Dagens datum:</b>&nbsp;  @DateTime.Now.ToShortDateString()</section>
+            </div>
+            <div class="wrapper">
+                <div class="noneborder">
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+                            <li class="nav-item pinksection">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Index"><b>Start</b></a>
+                            </li>
+                            <li class="nav-item pinksection">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/Razor"><b>Razor</b></a>
+                            </li>
+                            <li class="nav-item pinksection">
+                                <a class="nav-link text-dark" asp-area="" asp-page="/About"><b>Om sidan</b></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div>
+                    <main role="main">
+                        @RenderBody()
+                    </main>
+                </div>
+            </div>
+        </div>
+            <footer class="border-top footer text-muted">
+                <section id="footer">
+                    &copy; 2023 - Uppgift1 - Larissa Rosenbrant, laro0501@@student.miun.se
+                </section>
+            </footer>
+        </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/agentscript.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

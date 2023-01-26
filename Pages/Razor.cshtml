@@ -1,0 +1,30 @@
+﻿@page
+@model RazorModel
+@{
+    ViewData["Title"] = "Razor";
+}
+<section id="courses">
+    <h1>@ViewData["Title"]</h1>
+    <br />
+    <h3>Information</h3>
+    <br />
+    <p><b>Datum och klockslag:</b> &nbsp; @DateTime.Now </p>
+    @{
+        if (DateTime.Now.DayOfWeek.ToString().Equals("Monday"))
+        {
+            <p>Idag är det måndag!</p>
+        }
+        else
+        {
+            <p>Idag är det inte måndag!</p>
+        }
+    }
+    <p><b>Kurser apan Bonzi har läst vid Mittuniversitetet:</b></p>
+    <ul>
+        @{ for (int i = 0; i < Model.Courses.Count; i++)
+            {
+                <li>@Model.Courses.ElementAt(i)</li>
+            }
+        }
+    </ul>
+</section>
